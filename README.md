@@ -16,7 +16,7 @@ It keeps your shop's bills, sales, stock counts and low-stock alerts in your own
 
 You need a Grok Bot account and a Google account.
 
-1. Copy the Café Ops Manager template into your own Grok Bot (template link coming soon).
+1. Copy the [Café Ops Manager template](https://x.ai/bot/s8y3G66D-xmuPJc8wmRDw) into your own Grok Bot.
 2. Tell the bot your shop name.
 3. Connect Google Drive and Google Sheets.
 4. The bot creates the folders and two Sheets in your Drive.
